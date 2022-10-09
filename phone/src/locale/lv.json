@@ -1,0 +1,348 @@
+{
+    "translation": {
+      "MISC": {
+        "TOP_LEVEL_ERR_TITLE": "Kritiska kļūda",
+        "TOP_LEVEL_ERR_ACTION": "Pārlādēt",
+        "TOP_LEVEL_ERR_MSG": "NPWD saskārās ar kļūdu, no kuras tas nevarēja atgūties. Jums ir atkārtoti jāielādē NUI logs. Tālāk redzamā kļūda ir paredzēta programmētājiem.",
+        "APP_CRASHED_TITLE": "Kritiska aplikācijas kļūda",
+        "APP_CRASHED_MSG": "Aplikacija radās kļūda, pēc kuras to nevarēja atgūt",
+        "APP_CRASHED_ACTION": "Parladējiet aplikaciju"
+      },
+      "NOTIFICATIONS": {
+        "NO_UNREAD": "Nav jaunu paziņojumu"
+      },
+      "DATE_FORMAT": "MM/DD/YYYY",
+      "DATE_TIME_FORMAT": "MM/DD/YYYY vv:mm A",
+      "CALLS": {
+        "MESSAGES": {
+          "RINGING": "Zvana",
+          "OUTGOING": "Izejošais zvans",
+          "INCOMING": "Ienākošais zvans"
+        },
+        "FEEDBACK": {
+          "ERROR_MYSELF": "Jūs nevarat piezvanīt uz savu tālruņa numuru!",
+          "ERROR": "Pārtraucot zvanu, radās kļūda"
+        }
+      },
+      "BROWSER": {
+        "NAME": "Pārlūks"
+      },
+      "SETTINGS": {
+        "PHONE_NUMBER": "Telefona nummurs",
+        "PREVIEW_SOUND": "Klausieties Skaņu",
+        "CATEGORY": {
+          "APPEARANCE": "Izskats",
+          "PHONE": "Telefons",
+          "ACTIONS": "Darbības"
+        },
+        "OPTIONS": {
+          "ICONSET": "Ikonu komplekts",
+          "THEME": "Tema",
+          "LANGUAGE": "Valoda",
+          "FRAME": "Rāmis",
+          "ZOOM": "Pietuvinājums",
+          "WALLPAPER": "Fona attēls",
+          "RESET_SETTINGS": "Atiestatīt iestatījumus",
+          "RESET_SETTINGS_DESC": "Tādējādi tiks notīrīti jūsu lokāli saglabātie dati",
+          "STREAMER_MODE": {
+            "TITLE": "Streamer režīms",
+            "DESCRIPTION": "Paslēpj fotoattēlus pirms to parādīšanas"
+          },
+          "CUSTOM_WALLPAPER": {
+            "DIALOG_TITLE": "Atlasīt fonu",
+            "DIALOG_CONTENT": "Iestatiet pielāgotu fonu, ievadot tālāk esošā attēla saitē!",
+            "DIALOG_PLACEHOLDER": "Attēla saite",
+            "DIALOG_ERROR": "Nederīgs fotoattēls vai saite"
+          },
+          "CALL_VOLUME": "Zvana skaļums",
+          "RINGTONE": "Ringtoni",
+          "RINGTONE_VOLUME": "Ringtona skaļums",
+          "NOTIFICATION": "Paziņojumi",
+          "NOTIFICATION_VOLUME": "Paziņojumu skaļums",
+          "NOTIFICATION_FILTER": "Paziņojumu filtrs"
+        },
+        "MESSAGES": {
+          "INVALID_SETTINGS": "Iestatījumi nav pareizi saglabāti! Lūdzu, atiestatiet tos, iestatījumu lietotnē.",
+          "SETTINGS_RESET": "Iestatījumi ir atiestatīti!"
+        },
+        "MARKETPLACE": {
+          "NOTIFICATION": "Paziņojumi",
+          "NOTIFY_NEW_LISTING": "Rādīt paziņojumu par jauniem ierakstiem"
+        }
+      },
+      "CAMERA": {
+        "SHARE_DESTINATION": "Kur vēlaties kopīgot fotoattēlu",
+        "COPY_IMAGE": "Kopējiet foto saiti šeit:",
+        "FAILED_TO_DELETE": "Fotoattēlu nevarēja izdzēst :(",
+        "FAILED_TO_TAKE_PHOTO": "Fotoattēlu nevarēja saglabāt :("
+      },
+      "CONTACTS": {
+        "FEEDBACK": {
+          "ADD_FAILED": "Neizdevās izveidot kontaktu!",
+          "ADD_SUCCESS": "Kontakts veiksmīgi izveidots",
+          "UPDATE_FAILED": "Neizdevās atjaunināt kontaktu!",
+          "UPDATE_SUCCESS": "Kontakts veiksmīgi atjaunots!",
+          "DELETE_FAILED": "Neizdevās dzēst kontaktu!",
+          "DELETE_SUCCESS": "Kontakts veiksmīgi dzēsts!"
+        },
+        "PLACEHOLDER_SEARCH_CONTACTS": "Meklēt kontaktus...",
+        "FORM_NAME": "Vārds",
+        "FORM_NUMBER": "Numurs",
+        "FORM_AVATAR": "Attēla saite ",
+        "MODAL_BUTTON_ADD": "Pievienot kontaktu"
+      },
+      "DIALER": {
+        "MESSAGES": {
+          "CURRENT_CALL_TITLE": "Pašreizejāis zvans",
+          "INCOMING_CALL_TITLE": "Ienākošais zvans",
+          "CURRENT_CALL_WITH": "Pašreizejāis zvans ar {{ transmitter }}",
+          "TRANSMITTER_IS_CALLING": "{{ transmitter }}, zvana tev!"
+        },
+        "INPUT_PLACEHOLDER": "Ievadiet numuru",
+        "NAVBAR_HISTORY": "Vēsture",
+        "NAVBAR_DIAL": "Zvanīt",
+        "NAVBAR_CONTACTS": "Kontakti",
+        "NO_HISTORY": "Nav zvanu vēstures"
+      },
+      "TWITTER": {
+        "FEEDBACK": {
+          "CREATE_PROFILE_SUCCESS": "veiksmīgi izdevās izveidot Profilu",
+          "CREATE_PROFILE_FAILURE": "Neizdevās izviedot profilu",
+          "EDIT_PROFILE_SUCCESS": "Profils veiksmīgi atjaunots",
+          "EDIT_PROFILE_FAILURE": "Neizdevās atjaunot profilu",
+          "CREATE_FAILED": "Neizdevās nosūtīt tvītu",
+          "RETWEET_FAILED": "Neizdevās retvītot",
+          "RETWEET_EXISTS": "Uz šo tweetu jau ir jūsu Retweets!",
+          "LIKE_TWEET_FAILED": "Neizdevās atzīmēt tvītu ar Patīk",
+          "REPORT_TWEET_SUCCESS": "Successfully reported tweet",
+          "REPORT_TWEET_FAILED": "Failed to report tweet",
+          "FETCH_TWEETS_FAILED": "Failed to fetch tweets",
+          "DELETE_TWEET_FAILED": "Neizdevās izdzēst tvītu",
+          "FILTER_FETCH_FAILED": "Neizdevās iegūt filtrētus tvītus"
+        },
+        "MESSAGES": {
+          "NEW_RETWEET_BROADCAST": "@{{ profile_name }} retvītoja kādu!",
+          "NEW_BROADCAST": "Jauns tvīts no @{{ profile_name }}!",
+          "UNREAD_MESSAGES": "{{ count }} jauni tvīti iekšā laika skala!!"
+        },
+        "SUBMIT_IMAGE": "Pievienot bildi",
+        "TWEET": "Tvītot",
+        "REPORTED": " Reported",
+        "REPORT": "Report",
+        "IMAGE_PLACEHOLDER": "Saite uz jūsu attēlu vai gif",
+        "EDIT_DEFAULT_PROFILE_NAME": "Izvēlieties Profila vārdu",
+        "EDIT_PROFILE_AVATAR": "Avatar URL",
+        "AVATAR_CHOOSE_IMAGE": "Izvēlieties bildi",
+        "EDIT_PROFILE_NAME": "Profila vārds",
+        "EDIT_PROFILE_BIO": "Bio",
+        "EDIT_PROFILE_LOCATION": "Lokācija",
+        "EDIT_PROFILE_JOB": "Darbs",
+        "RETWEETED": "Retvītots",
+        "TWEET_MESSAGE_CHAR_LIMIT": "Ziņojuma garums pārsniedz rakstzīmju skaita ierobežojumu",
+        "TWEET_MESSAGE_NEW_LINE_LIMIT": "Ziņojums pārsniedz jaunās rindas ierobežojumu",
+        "TWEET_MESSAGE_PLACEHOLDER": "Ko notiek?",
+        "SEARCH_TWEETS_PLACEHOLDER": "Meklēt pēc profila vārda vai ziņam",
+        "SEARCH_TWEETS": "Meklēt tvītus",
+        "TIME_JUST_NOW": "Tikko",
+        "TIME_MINUTES": "m",
+        "TIME_HOURS": "h",
+        "TIME_DAYS": "d"
+      },
+      "MATCH": {
+        "MESSAGES": {
+          "PROFILE_MATCHED_AT": "Matched: {{ matchedAt }}",
+          "PROFILE_LAST_ACTIVE": "Pēdējā aktivitāte: {{ lastActive }}",
+          "LIKED": "LIKE",
+          "NOPE": "NOPE"
+        },
+        "FEEDBACK": {
+          "UPDATE_PROFILE_FAILED": "Neizdevās atjaunināt profilu",
+          "UPDATE_PROFILE_SUCCEEDED": "Profils veiksmīgi atjaunināts",
+          "MATCHES_ERROR": "Radās kļūda!",
+          "NO_MATCHES": "Sakritības nav atrastas",
+          "NO_PROFILES": "Nav atrasts neviens profils",
+          "PROFILES_ERROR": "Neizdevās ielādēt profilus",
+          "SAVE_LIKES_FAILED": "Neizdevās saglabāt Like",
+          "NEW_LIKE_FOUND": "Atrasta jauna atbilstība!"
+        },
+        "PROFILE_CONFIGURATION": "Lietotne ir nepareizi konfigurēta — nevar izveidot profilu. Lūdzu, sazinieties ar administratoru.",
+        "EDIT_PROFILE_IMAGE": "Attēla URL",
+        "EDIT_PROFILE_NAME": "Profila vārds",
+        "EDIT_PROFILE_BIO": "Bio",
+        "EDIT_PROFILE_LOCATION": "Lokācija",
+        "EDIT_PROFILE_JOB": "Darbs",
+        "EDIT_PROFILE_TAGS": "Tags",
+        "EDIT_VOICE_MESSAGE": "Balss ziņa",
+        "EDIT_PROFILE_PREVIEW": "Rādīt priekšskatījumu",
+        "LIKE": "Like",
+        "DISLIKE": "Dislike"
+      },
+      "NOTES": {
+        "FEEDBACK": {
+          "NO_NOTES": "Jums nav piezīmju",
+          "ADD_FAILED": "Neizdevās saglabāt piezīmi.",
+          "ADD_SUCCESS": "Piezīme veiksmīgi saglabāta.",
+          "DELETE_SUCCESS": "Piezīme veiksmīgi dzēsta.",
+          "DELETE_FAILED": "Neizdevās dzēst piezīmi.",
+          "UPDATE_FAILED": "Neizdevās atjaunināt piezīmi.",
+          "UPDATE_SUCCESS": "Piezīme atjaunināta."
+        }
+      },
+      "MARKETPLACE": {
+        "FEEDBACK": {
+          "REQUIRED_FIELDS": "Jāaizpilda visi obligātie lauki!",
+          "CREATE_LISTING_FAILED": "Neizdevās izveidot jaunu ierakstu",
+          "CREATE_LISTING_SUCCESS": "Jauns ieraksts veiksmīgi izveidots",
+          "DELETE_LISTING_FAILED": "Neizdevās dzēst ierakstu",
+          "DUPLICATE_LISTING": "Jūs nevarat publicēt ierakstu ar tādu pašu nosaukumu!",
+          "DELETE_LISTING_SUCCESS": "ieraksts veiksmīgi dzēst",
+          "REPORT_LISTING_FAILED": "Par šo ierakstu jau ziņots",
+          "REPORT_LISTING_SUCCESS": "Par ierakstu ziņots veiksmīgi"
+        },
+        "NEW_LISTING": "Jauns saraksts",
+        "CHOOSE_IMAGE": "Izvēlieties attēlu",
+        "FORM_TITLE": "Virsraksts",
+        "POST_LISTING": "Post",
+        "FORM_IMAGE": "Attēls vai URL",
+        "FORM_DESCRIPTION": "Apraksts",
+        "NO_IMAGE": "Attēls nav sniegts"
+      },
+      "MESSAGES": {
+        "MESSAGES": {
+          "MESSAGE_CONVERSATION_CREATE_ALL_NUMBERS_FAILED": "Nevarēja atrast nevienu no tālruņa numuriem!",
+          "UNREAD_MESSAGES": "Jums ir {{ count }} neizlasītu ziņu!",
+          "MESSAGE_GROUP_CREATE_SOME_NUMBERS_FAILED": "({{ numbers }}) nav reģistrēti numuri."
+        },
+        "FEEDBACK": {
+          "MESSAGE_CONVERSATION_CREATE_ONE_NUMBER_FAILED": "{{ number }} nav reģistrēts numurs",
+          "NEW_MESSAGE_FAILED": "Neizdevās nosūtīt ziņojumu",
+          "INVALID_PHONE_NUMBER": "Nederīgs telefona numurs",
+          "MESSAGE_CONVERSATION_DUPLICATE": "Šī saruna jau pastāv!",
+          "MESSAGE_GROUP_CREATE_FAILED": "Neizdevās izveidot ziņojuma grupu",
+          "MESSAGE_GROUP_CREATE_MINE": "Jūs nevarat pievienot sevi!",
+          "FETCHED_MESSAGES_FAILED": "Neizdevās izgūt ziņas",
+          "DELETE_MESSAGE": "Dzēst ziņojumu",
+          "DELETE_MESSAGE_FAILED": "Neizdevās dzēst ziņojumu",
+          "DELETE_CONVERSATION_FAILED": "Neizdevās izdzēst grupu"
+        },
+        "SEARCH_PLACEHOLDER": "Meklēt ziņas...",
+        "DELETE_CONVERSATION": "Izdzēst čatu",
+        "NEW_MESSAGE": "Ziņa...",
+        "NEW_MESSAGE_GROUP": "Telefona numuri...",
+        "SHARE_IMAGE_TITLE": "Vai vēlaties kopīgot šo attēlu?",
+        "SHARE_NOTE_TITLE": "Vai vēlaties kopīgot šo piezīmi??",
+        "SHARE_CONTACT_TITLE": "Vai vēlaties kopīgot šo kontaktpersonu?",
+        "GROUP_CHAT_LABEL": "Grupa čata iezīme...",
+        "MEDIA_OPTION": "Kamera / Galerija",
+        "CONTACT_OPTION": "Kopīkot kontaktu",
+        "CONTACT_SHARED": "Kontakts kopīgots",
+        "NOTE_OPTION": "Kopīgot piezīmi",
+        "LOCATION_OPTION": "Kopīgot atrašanās vietu",
+        "LOCATION_MESSAGE": "Atrašanās vieta kopīgota",
+        "LOCATION_TOOLTIP": "Iestatiet ceļa punktu",
+        "NOTE_TOOLTIP": "Skatīt piezīmi",
+        "NEW_MESSAGE_GROUP_SUBMIT": "Sūtit",
+        "INPUT_NAME_OR_NUMBER": "Meklējiet kontaktpersonas vai ierakstiet numuru un nospiediet taustiņu Enter",
+        "ACTIONS_TITLE": "Darbības",
+        "ME": "Es"
+      },
+      "DARKCHAT": {
+        "FEEDBACK": {
+          "FETCH_MESSAGES_FAILED": "Failed to fetch messages",
+          "JOIN_CHANNEL_FAILED": "Failed to join channel",
+          "LEAVE_CHANNEL_FAILED": "Failed to leave channel",
+          "SEND_MESSAGE_FAILED": "Failed to send message",
+          "UPDATE_LABEL_FAILED": "Failed to update channel name",
+          "TRANSFER_OWNERSHIP_FAILED": "Failed to update ownership",
+          "FETCH_MEMBERS_FAILED": "Failed to fetch members",
+          "DELETE_CHANNEL_FAILED": "Failed to delete channel"
+        },
+        "TYPE_TO_CONFIRM": "Lai apstiprinātu, ierakstiet \"{{ identifier }}\".",
+        "LEAVE": "Iziet",
+        "NEW_CHANNEL_TITLE": "Pievienojieties kanālam, izmantojot ID",
+        "DELETE_CHANNEL_TITLE": "Dzēst kanālu",
+        "NEW_CHANNEL_INPUT_PLACEHOLDER": "Kanāla ID",
+        "JOIN_BUTTON": "Pievienoties kanālam",
+        "TRANSFER_OWNERSHIP": "Transfer ownership",
+        "MESSAGE_PLACEHOLDER": "Sūtīt ziņu",
+        "MEDIA_PLACEHOLDER": "Bildes URL",
+        "MEDIA_UPLOAD": "Augšupielādēt bildi",
+        "MEDIA_GALLERY": "IZVĒLIES ATTĒLU",
+        "MEMBERS": "Lietotāji",
+        "DANGER_ZONE": "Bīstamā zona"
+      },
+      "RELATIVE_TIME": {
+        "future": "pēc %s",
+        "past": "%s atpakaļ",
+        "s": "dažas sekundes",
+        "m": "minūte",
+        "mm": "%d minutes",
+        "h": "stunda",
+        "hh": "%d stundas",
+        "d": "diena",
+        "dd": "%d dienas",
+        "M": "mēnesis",
+        "MM": "%d mēneši",
+        "y": "gads",
+        "yy": "%d gadi"
+      },
+      "GENERIC": {
+        "LOADING": "Ielāde...",
+        "WAIT": "Lūdzu uzgaidiet...",
+        "SAVE": "Saglabāt",
+        "EDIT": "Rediģet",
+        "UPDATE": "Atjaunināt",
+        "REQUIRED": "Obligāti",
+        "DELETE": "Džest",
+        "REPORT": "Report",
+        "CALL": "Zvans",
+        "MESSAGE": "Ziņa",
+        "CLOSE": "Aizvērt",
+        "CANCEL": "Atcelt",
+        "TITLE": "Virsraksts",
+        "CONTENT": "Saturs",
+        "SHARE": "Kopīgot",
+        "ADD": "Pievienot",
+        "SEND": "Sūtit",
+        "WRITE_TO_CLIPBOARD_TOOLTIP": "Kopēt {{ content }}",
+        "WRITE_TO_CLIPBOARD_MESSAGE": "{{content}} nokopēts starpliktuvē!"
+      },
+      "COMING_SOON": "Drīzumā...",
+      "INITIALIZING": "Inicializēšana",
+      "APPS_DIALER": "Telefons",
+      "APPS_CONTACTS": "Kontakti",
+      "APPS_MESSAGES": "Ziņas",
+      "APPS_CALCULATOR": "kalkulators",
+      "APPS_SETTINGS": "Iestatījumi",
+      "APPS_BANK": "Banka",
+      "APPS_NOTES": "Piezīmes",
+      "APPS_EXAMPLE": "Example app",
+      "APPS_TWITTER": "Twitter",
+      "APPS_MARKETPLACE": "Ziņojumu dēlis",
+      "APPS_CAMERA": "Kamera",
+      "APPS_MATCH": "Matchmaker",
+      "APPS_CALCULATOR_COPIED": "Rezultāts kopēts starpliktuvē!",
+      "APPS_DARKCHAT": "IRC",
+      "GENERIC_CLICK_TO_REVEAL": "Noklikšķiniet, lai atklātu",
+      "GENERIC_LOADING": "Ielāde...",
+      "GENERIC_WAIT": "Lūdzu uzgaidiet...",
+      "GENERIC_SAVE": "Saglabāt",
+      "GENERIC_EDIT": "Rediģet",
+      "GENERIC_UPDATE": "Atjaunināt",
+      "GENERIC_REQUIRED": "Obligāti",
+      "GENERIC_DELETE": "Dzēst",
+      "GENERIC_REPORT": "Report",
+      "GENERIC_CALL": "Zvans",
+      "GENERIC_MESSAGE": "Ziņa",
+      "GENERIC_CLOSE": "Aizvērt",
+      "GENERIC_CANCEL": "Atcelt",
+      "GENERIC_TITLE": "Virsraksts",
+      "GENERIC_CONTENT": "Saturs",
+      "GENERIC_WRITE_TO_CLIPBOARD_TOOLTIP": "Kopēt {{ content }}",
+      "GENERIC_WRITE_TO_CLIPBOARD_MESSAGE": "{{content}} nokopēts starpliktuvē!",
+      "GENERIC_DB_ERROR": "Neizdevās izveidot/atjaunināt pieprasījumu.",
+      "GENERIC_INVALID_IMAGE_HOST": "Šis hosts, kuru jūs meiģinājat izmantot priekš attēla, nav atļauts mūsu serverī!",
+      "ERROR_RATE_LIMITED": "Jums nedaudz ir jāuzgaida, pirms to darāt vēlreiz."
+    }
+  }
+  
